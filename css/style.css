@@ -1,0 +1,18 @@
+.background {
+	background: url(../img/background.jpg) no-repeat center fixed;
+	background-size: cover;
+	background-color: #191719;
+}
+
+.text {
+	font-size: 65px;
+	text-align: center;
+	color: #ebeaea;
+	text-decoration: none;
+	text-shadow: 10px 0px 10px #191719;
+}
+
+.text:hover {
+	color: #f42e00;
+	text-shadow: 10px 0px 10px #191719;
+}
