@@ -1,4 +1,10 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User ID: partoftheworlD <partoftheworld@vivaldi.net>
+Comment: Date of creation: 05.10.2022 19:40
+Comment: Valid until: 01.12.2025 12:00
+Comment: Type: 255-bits EdDSA
+Comment: Fingerprint: FEAFD9D7124AF36F1D4E9A8104057888FA53FBAA
+
 
 mDMEYz2zZhYJKwYBBAHaRw8BAQdAhkZ58lGH1Idy73d6oxuw/P2BqC/V9ct6MXle
 i2Ezl960K3BhcnRvZnRoZXdvcmxEIDxwYXJ0b2Z0aGV3b3JsZEB2aXZhbGRpLm5l
